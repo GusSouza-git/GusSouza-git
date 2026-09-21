@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:007BFF&height=210&section=header&text=Gustavo%20Souza&fontSize=46&fontColor=FFFFFF&animation=fadeIn" alt="Banner de Gustavo Souza em azul e preto" width="100%" />
+  <img src="assets/banner-gustavo-souza.jpg" alt="Gustavo Souza — banner em azul e preto" width="100%" />
 </p>
 
 ## Sobre mim
 
-Estudante de **Ciência da Computação na Universidade São Judas Tadeu**, atualmente no 2º semestre, e em formação em **Desenvolvimento Full Stack pela Rocketseat**.
+Atuo com QA funcional, realizando testes e validando funcionalidades com foco no comportamento do sistema e na experiência do usuário.
 
-Atuo com QA funcional, realizando testes e validação de funcionalidades com atenção à experiência do usuário. Paralelamente, aprofundo meus conhecimentos em programação e desenvolvimento web, ampliando minha formação técnica e explorando diferentes áreas da tecnologia.
+Estou ampliando minha formação em tecnologia por meio da graduação em Ciência da Computação e dos estudos em desenvolvimento Full Stack. Meu foco é construir uma base sólida em programação, compreender o desenvolvimento de software e aplicar esses conhecimentos na prática.
 
-## Formação
+## Formação acadêmica
 
-| Instituição | Curso | Etapa |
-| --- | --- | --- |
-| Universidade São Judas Tadeu | Ciência da Computação | 2º semestre |
-| Rocketseat | Desenvolvimento Full Stack | Em andamento |
+**Ciência da Computação**  
+Universidade São Judas Tadeu  
+Graduação em andamento · 2º semestre
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:007BFF&height=100&section=footer" alt="" width="100%" />
+## Formação complementar
+
+**Desenvolvimento Full Stack — Rocketseat**  
+Em andamento · Mais de 180 horas de estudo
+
+Formação voltada ao desenvolvimento de aplicações web, do front-end ao back-end, com projetos e desafios práticos. O programa abrange HTML, CSS, JavaScript, TypeScript, React, Node.js, APIs REST e versionamento com Git e GitHub.
