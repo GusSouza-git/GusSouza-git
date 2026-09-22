@@ -17,6 +17,6 @@ Graduação em andamento · 2º semestre
 ## Formação complementar
 
 **Desenvolvimento Full Stack — Rocketseat**  
-Em andamento · Mais de 180 horas de estudo
+Em andamento · 
 
 Formação voltada ao desenvolvimento de aplicações web, do front-end ao back-end, com projetos e desafios práticos. O programa abrange HTML, CSS, JavaScript, TypeScript, React, Node.js, APIs REST e versionamento com Git e GitHub.
