@@ -17,6 +17,11 @@ Graduação em andamento · 2º semestre
 ## Formação complementar
 
 **Desenvolvimento Full Stack — Rocketseat**  
-Em andamento · 
+Em andamento
 
 Formação voltada ao desenvolvimento de aplicações web, do front-end ao back-end, com projetos e desafios práticos. O programa abrange HTML, CSS, JavaScript, TypeScript, React, Node.js, APIs REST e versionamento com Git e GitHub.
+
+**Illustrator e Photoshop CC — Ilustração Digital e Tratamento de Imagem**  
+Senac São Bernardo do Campo · Concluído em 2017
+
+Formação em criação e edição de ilustrações vetoriais e tratamento de imagens digitais com Adobe Illustrator e Adobe Photoshop.
