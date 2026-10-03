@@ -14,7 +14,7 @@ Estou ampliando minha formação em tecnologia por meio da graduação em Ciênc
 Universidade São Judas Tadeu  
 Graduação em andamento · 2º semestre
 
-## Formação complementar
+## Formação complementar · [Ver certificados](docs/certificados/README.md)
 
 **Desenvolvimento Full Stack — Rocketseat**  
 Em andamento
@@ -26,7 +26,7 @@ Concluído em 2026
 
 Formação introdutória em cibersegurança, abordando ameaças e vulnerabilidades, proteção de dados, segurança de redes e fundamentos da área de cybersecurity. Credencial digital verificada pela Cisco.
 
-[Ver credencial verificada no Credly](https://www.credly.com/badges/b2c40b9d-8118-4381-abcb-25841de0583e/public_url) · [Ver certificados](docs/certificados/README.md)
+[Ver credencial verificada no Credly](https://www.credly.com/badges/b2c40b9d-8118-4381-abcb-25841de0583e/public_url)
 
 **Illustrator e Photoshop CC — Ilustração Digital e Tratamento de Imagem**  
 Senac São Bernardo do Campo · Concluído em 2017
