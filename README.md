@@ -16,17 +16,17 @@ Graduação em andamento · 2º semestre
 
 ## Formação complementar
 
+**Desenvolvimento Full Stack — Rocketseat**  
+Em andamento
+
+Formação voltada ao desenvolvimento de aplicações web, do front-end ao back-end, com projetos e desafios práticos. O programa abrange HTML, CSS, JavaScript, TypeScript, React, Node.js, APIs REST e versionamento com Git e GitHub.
+
 **Introduction to Cybersecurity — Cisco Networking Academy**  
 Concluído em 2026
 
 Formação introdutória em cibersegurança, abordando ameaças e vulnerabilidades, proteção de dados, segurança de redes e fundamentos da área de cybersecurity. Credencial digital verificada pela Cisco.
 
-[Ver credencial verificada no Credly](https://www.credly.com/badges/b2c40b9d-8118-4381-abcb-25841de0583e/public_url)
-
-**Desenvolvimento Full Stack — Rocketseat**  
-Em andamento
-
-Formação voltada ao desenvolvimento de aplicações web, do front-end ao back-end, com projetos e desafios práticos. O programa abrange HTML, CSS, JavaScript, TypeScript, React, Node.js, APIs REST e versionamento com Git e GitHub.
+[Ver credencial verificada no Credly](https://www.credly.com/badges/b2c40b9d-8118-4381-abcb-25841de0583e/public_url) · [Ver certificados](docs/certificados/README.md)
 
 **Illustrator e Photoshop CC — Ilustração Digital e Tratamento de Imagem**  
 Senac São Bernardo do Campo · Concluído em 2017
