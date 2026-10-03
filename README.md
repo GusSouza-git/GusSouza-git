@@ -21,6 +21,8 @@ Concluído em 2026
 
 Formação introdutória em cibersegurança, abordando ameaças e vulnerabilidades, proteção de dados, segurança de redes e fundamentos da área de cybersecurity. Credencial digital verificada pela Cisco.
 
+[Ver credencial verificada no Credly](https://www.credly.com/badges/b2c40b9d-8118-4381-abcb-25841de0583e/public_url)
+
 **Desenvolvimento Full Stack — Rocketseat**  
 Em andamento
 
