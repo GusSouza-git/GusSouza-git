@@ -16,6 +16,11 @@ Graduação em andamento · 2º semestre
 
 ## Formação complementar
 
+**Introduction to Cybersecurity — Cisco Networking Academy**  
+Concluído em 2026
+
+Formação introdutória em cibersegurança, abordando ameaças e vulnerabilidades, proteção de dados, segurança de redes e fundamentos da área de cybersecurity. Credencial digital verificada pela Cisco.
+
 **Desenvolvimento Full Stack — Rocketseat**  
 Em andamento
 
